@@ -4,8 +4,8 @@ Dieses Repository enthält eine Sammlung von Cheet Sheets.
 
 ## 📚 Buchreferenzen
 
-- 📖 [Praktische Statistik für Data Scientists](https://www.amazon.de/Praktische-Statistik-f%C3%BCr-Data-Scientists/dp/3960091532) von Autorname
-- 📖 [Datenanalyse mit Python: Auswertung von Daten mit Pandas, NumPy und IPython](https://www.amazon.de/Datenanalyse-mit-Python-Auswertung-Jupyter/dp/3960092113) von Autorname
+- 📖 [Praktische Statistik für Data Scientists](https://www.amazon.de/Praktische-Statistik-f%C3%BCr-Data-Scientists/dp/3960091532)
+- 📖 [Datenanalyse mit Python: Auswertung von Daten mit Pandas, NumPy und IPython](https://www.amazon.de/Datenanalyse-mit-Python-Auswertung-Jupyter/dp/3960092113) 
 
 ## 📷 Buchcover
 
